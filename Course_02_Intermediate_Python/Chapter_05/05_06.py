@@ -1,7 +1,7 @@
 # NumPy is imported, seed is set
 import numpy as np
 
-np.random.seed(123)
+np.random.seed(12301)
 # Initialization
 random_walk = [0]
 
